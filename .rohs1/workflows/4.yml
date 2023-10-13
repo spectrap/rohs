@@ -1,4 +1,4 @@
-name: GetScreen Windows (4H)
+name: 4
 
 on:
   workflow_dispatch:

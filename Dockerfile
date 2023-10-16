@@ -1,4 +1,3 @@
-> SHAKUGAN SADUK:
 FROM debian:bullseye
 
 ENV LANG en_US.UTF-8
